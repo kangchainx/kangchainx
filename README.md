@@ -1,24 +1,33 @@
-## Hi I'm Chris Kang 👋
-Full-stack engineer with 5 years and now explore Web3 and decentralized tech.
-## Skills
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+## 👋 Hi, I'm Chris Kang
 
-  <!-- Backend & Language -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+A **Full-Stack Engineer & Creative Builder** crafting meaningful digital experiences.  
+I specialize in **Vue, React, TypeScript**, and build backend systems with **Java/Spring Boot** and **Node.js**.  
 
-  <!-- Web3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-</p>
+🌍 Based in Asia, working globally — open to **remote roles** that value clean architecture, collaboration, and innovation.  
+Exploring the intersection of **Web, AI, and Web3**, I aim to create products that empower people and redefine how we connect online.  
+
+## 🛠️ Tech Stack
+Frontend — JavaScript (ES6+), TypeScript, React, Vue, Next.js, TailwindCSS, Ant Design, shadcn/ui, Vite ·  
+Backend — Java, Spring Boot, Spring Cloud, Node.js (Express/Nest.js), Spring WebFlux ·  
+Database — PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch ·  
+DevOps — Docker, Nginx, GitHub Actions, CI/CD, Linux ·  
+Extras — EVM, Solidity, MQTT, Kafka, RabbitMQ
+
+## 📫 Connect with Me
+🌐 [Portfolio Website (coming soon )](https://github.com/kangchainx)<br>
+💼 [LinkedIn (coming soon)](https://www.linkedin.com)<br>
+🐦 [X (Twitter)](https://x.com/ccKang666)<br>
+📧 [Email](mailto:kangchenhe666@gmail.com)<br>
 
 ## Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangchainx&show_icons=true&theme=radical)
+
+## 🐍 My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
+</picture>
 
 
 <!--
