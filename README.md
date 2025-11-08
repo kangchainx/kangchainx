@@ -18,7 +18,7 @@ Full-stack engineer with 5 years and now explore Web3 and decentralized tech.
 </p>
 
 ## Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriskang&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangchainx&show_icons=true&theme=radical)
 
 
 <!--
