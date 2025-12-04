@@ -19,9 +19,6 @@ Extras — EVM, Solidity, MQTT, Kafka, RabbitMQ
 🐦 [X (Twitter)](https://x.com/ccKang666)<br>
 📧 [Email](mailto:kangchenhe666@gmail.com)<br>
 
-## Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangchainx&show_icons=true&theme=radical)
-
 ## 🐍 My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake-dark.svg" />
