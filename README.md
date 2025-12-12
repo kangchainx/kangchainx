@@ -14,7 +14,7 @@ DevOps — Docker, Nginx, GitHub Actions, CI/CD, Linux ·
 Extras — EVM, Solidity, MQTT, Kafka, RabbitMQ
 
 ## 📫 Connect with Me
-🌐 [Portfolio Website (coming soon )](https://github.com/kangchainx)<br>
+🌐 [Portfolio Website](https://kangchainx.com/)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/chris-k66)<br>
 🐦 [X (Twitter)](https://x.com/ccKang666)<br>
 📧 [Email](mailto:kangchenhe666@gmail.com)<br>
