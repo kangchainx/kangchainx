@@ -95,22 +95,39 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/chris-k66">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="margin-right:8px;" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kangchainx.com">
-    <img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=kodi&logoColor=white" style="margin-right:8px;" />
-  </a>
+    <img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=kodi&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ccKang666">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" style="margin-right:8px;" />
-  </a>
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kangchenhe666@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" />
   </a>
 </p>
+
+## 🧑🏻‍💻 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=kangchainx" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
