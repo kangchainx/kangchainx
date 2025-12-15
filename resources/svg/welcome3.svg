@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 600 120"
+  width="600"
+  height="120"
+>
+  <rect width="600" height="120" fill="none" />
+
+  <!-- Terminal typing -->
+  <g
+    transform="translate(140 75)"
+    font-family="monospace"
+    font-size="56"
+    fill="#00BFFF"
+  >
+    <!-- W -->
+    <text x="0" opacity="0">W
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.1;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- E -->
+    <text x="40" opacity="0">E
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.2;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- L -->
+    <text x="80" opacity="0">L
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.3;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- C -->
+    <text x="120" opacity="0">C
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.4;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- O -->
+    <text x="160" opacity="0">O
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.5;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- M -->
+    <text x="200" opacity="0">M
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.6;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- E -->
+    <text x="240" opacity="0">E
+      <animate attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.7;0.9;1"
+        dur="4s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- Cursor -->
+    <text x="280">_
+      <animate attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

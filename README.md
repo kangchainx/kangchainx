@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/gif/welcome1.gif" alt="banner" width="100%" />
+  <img src="./resources/svg/welcome3.svg" alt="banner" width="100%" />
 </p>
 
 ## 👋 Hi, I'm Chris Kang
