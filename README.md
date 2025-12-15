@@ -11,18 +11,13 @@
 
 ## ✨ About Me
 
-<table>
-  <tr>
-    <td>
-      Full-stack developer and independent builder. I focus on creating end-to-end web applications and open-source tools, combining product thinking with solid engineering. I enjoy working in fast-paced, iterative environments where ideas turn into real products quickly.
-      <br /><br />
-      Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
-    </td>
-    <td align="right" width="260">
-      <img src="./resources/gif/coding.gif" alt="coding" width="240" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="260" src="./resources/gif/coding.gif" alt="coding" />
+
+Full-stack developer and independent builder. I focus on creating end-to-end web applications and open-source tools, combining product thinking with solid engineering. I enjoy working in fast-paced, iterative environments where ideas turn into real products quickly.
+
+Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
+
+<br clear="right" />
 
 ---
 
@@ -99,41 +94,24 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://kangchainx.com">
-    <img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=kodi&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chris-k66">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ccKang666">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kangchenhe666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" />
-  </a>
+  <a href="https://kangchainx.com"><img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=kodi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chris-k66"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/ccKang666"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kangchenhe666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
 ## 🧑🏻‍💻 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <!-- <td align="left">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=kangchainx&theme=radical&hide_border=true" />
-      </a>
-    </td> -->
-    <td align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=kangchainx&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!--
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=kangchainx&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://nirzak-streak-stats.vercel.app/?user=kangchainx&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/convoychat"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Top Languages" /></a>
+</p>
 
 ---
 
