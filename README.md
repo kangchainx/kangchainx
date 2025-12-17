@@ -2,6 +2,8 @@
   <img src="./resources/svg/welcome3.svg" alt="banner" width="100%" />
 </p>
 
+[![santa-hat](https://kangchainx.github.io/github-christmas-kit/assets/svg/santa-hat.svg)](https://kangchainx.github.io/github-christmas-kit)
+
 ## 👋 Hi, I'm Chris Kang
 
 **I build real products end to end.**<br>
