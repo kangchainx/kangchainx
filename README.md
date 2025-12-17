@@ -2,6 +2,8 @@
   <img src="./resources/svg/welcome3.svg" alt="banner" width="100%" />
 </p>
 
+[![santa-hat](https://kangchainx.github.io/christmas-readme-assets/assets/svg/santa-hat.svg)](https://kangchainx.github.io/christmas-readme-assets)
+
 ## 👋 Hi, I'm Chris Kang [![snowman](https://kangchainx.github.io/christmas-readme-assets/assets/svg/snowman.svg)](https://kangchainx.github.io/christmas-readme-assets)
 
 **I build real products end to end.**<br>
