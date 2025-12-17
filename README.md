@@ -91,7 +91,9 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 
 ---
 
-## 🤝 Connect With Me
+## ☎️ Connect With Me 
+
+[![Chris Kang](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=6B7280&center=true&width=300&height=42&lines=Open+to+collaborate.+%F0%9F%A4%9D)](https://github.com/kangchainx)
 
 <p align="left">
   <a href="https://kangchainx.com"><img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=kodi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
