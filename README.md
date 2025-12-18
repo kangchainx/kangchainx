@@ -93,10 +93,6 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
       alt="GitHub-Christmas-Kit demo"
     />
   </a>
-  <br />
-  <span style="display:inline-block; width:360px; text-align:center;"><sub>Youtube-Analysis-Project</sub></span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:360px; text-align:center;"><sub>GitHub-Christmas-Kit</sub></span>
 </p>
 
 
