@@ -4,6 +4,8 @@
 
 [![santa-hat](https://kangchainx.github.io/github-christmas-kit/assets/svg/santa-hat.svg)](https://kangchainx.github.io/github-christmas-kit)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FB7185&width=230&lines=Merry+Christmas.+%F0%9F%8E%84)](https://git.io/typing-svg)
+
 ## 👋 Hi, I'm Chris Kang
 
 **I build real products end to end.**<br>
@@ -76,18 +78,33 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 ## 🚀 My Project
 
 <p align="center">
-  <a
-    href="https://github.com/kangchainx/youtube-analysis-project"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="./resources/demo/yvap-video-short.gif"
-      width="600"
-    />
+  <a href="https://github.com/kangchainx/youtube-analysis-project">
+    <video
+      src="./resources/demo/yvap-demo-20251218.mp4"
+      width="360"
+      autoplay
+      loop
+      muted
+      playsinline
+      preload="metadata"
+    ></video>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kangchainx.github.io/github-christmas-kit">
+    <video
+      src="./resources/demo/github_christmas_kit_demo.mp4"
+      width="360"
+      autoplay
+      loop
+      muted
+      playsinline
+      preload="metadata"
+    ></video>
   </a>
   <br />
-  <sub>Youtube-Analysis-Project</sub>
+  <span style="display:inline-block; width:360px; text-align:center;"><sub>Youtube-Analysis-Project</sub></span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:360px; text-align:center;"><sub>GitHub-Christmas-Kit</sub></span>
 </p>
 
 
