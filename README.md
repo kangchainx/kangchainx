@@ -80,7 +80,7 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 <p align="center">
   <a href="https://github.com/kangchainx/youtube-analysis-project">
     <video
-      src="./resources/demo/yvap-demo-20251218.mp4"
+      src="./resources/demo/yvap-demo-20251218-github_readme.mp4"
       width="360"
       autoplay
       loop
@@ -92,7 +92,7 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   &nbsp;&nbsp;&nbsp;
   <a href="https://kangchainx.github.io/github-christmas-kit">
     <video
-      src="./resources/demo/github_christmas_kit_demo.mp4"
+      src="./resources/demo/github_christmas_kit_demo_github_readme.mp4"
       width="360"
       autoplay
       loop
