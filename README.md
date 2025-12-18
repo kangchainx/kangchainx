@@ -79,27 +79,19 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 
 <p align="center">
   <a href="https://github.com/kangchainx/youtube-analysis-project">
-    <video
+    <img
       src="./resources/demo/yvap-demo-github-readme.gif"
       width="360"
-      autoplay
-      loop
-      muted
-      playsinline
-      preload="metadata"
-    ></video>
+      alt="Youtube-Analysis-Project demo"
+    />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kangchainx.github.io/github-christmas-kit">
-    <video
+  <a href="https://github.com/kangchainx/github-christmas-kit">
+    <img
       src="./resources/demo/github-christmas-kit-demo-github-readme.gif"
       width="360"
-      autoplay
-      loop
-      muted
-      playsinline
-      preload="metadata"
-    ></video>
+      alt="GitHub-Christmas-Kit demo"
+    />
   </a>
   <br />
   <span style="display:inline-block; width:360px; text-align:center;"><sub>Youtube-Analysis-Project</sub></span>
