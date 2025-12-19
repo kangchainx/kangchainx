@@ -86,7 +86,7 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kangchainx/github-christmas-kit">
+  <a href="https://kangchainx.github.io/github-christmas-kit">
     <img
       src="./resources/demo/github-christmas-kit-demo-github-readme.gif"
       width="360"
