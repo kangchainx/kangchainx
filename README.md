@@ -2,10 +2,6 @@
   <img src="./resources/svg/welcome3.svg" alt="banner" width="100%" />
 </p>
 
-[![santa-hat](https://kangchainx.github.io/github-christmas-kit/assets/svg/santa-hat.svg)](https://kangchainx.github.io/github-christmas-kit)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FB7185&width=230&lines=Merry+Christmas.+%F0%9F%8E%84)](https://git.io/typing-svg)
-
 ## 👋 Hi, I'm Chris Kang
 
 **I build real products end to end.**<br>
