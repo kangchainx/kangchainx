@@ -105,14 +105,7 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   <a href="mailto:kangchenhe666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kangchainx">
-    <img src="./resources/png/bmc-full-logo-no-background.png" alt="Buy Me A Coffee" width="300" />
-  </a>
-</p>
+---
 
 ## 🧑🏻‍💻 GitHub Stats
 
@@ -135,3 +128,11 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
 </picture>
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kangchainx">
+    <img src="./resources/gif/buymeacoffee.gif" alt="Buy Me A Coffee" width="300" />
+  </a>
+</p>
