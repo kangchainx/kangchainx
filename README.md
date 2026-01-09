@@ -18,9 +18,6 @@ Full-stack developer and independent builder. I focus on creating end-to-end web
 Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 
 <a href="https://www.buymeacoffee.com/kangchainx"><img src="./resources/png/yellow-button.png" alt="Buy Me A Coffee" height="28" /></a>
-
-<br clear="right" />
-
 ---
 
 ## 🛠️ Tech & Tools
