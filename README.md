@@ -17,6 +17,8 @@ Full-stack developer and independent builder. I focus on creating end-to-end web
 
 Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 
+<a href="https://www.buymeacoffee.com/kangchainx"><img src="./resources/png/yellow-button.png" alt="Buy Me A Coffee" height="28" /></a>
+
 <br clear="right" />
 
 ---
@@ -76,8 +78,9 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
 <p align="center">
   <a href="https://github.com/kangchainx/youtube-analysis-project">
     <img
-      src="./resources/demo/yvap-demo-github-readme.gif"
-      width="360"
+      src="./resources/demo/youtube-analysis-project.gif"
+      width="300"
+      height="150"
       alt="Youtube-Analysis-Project demo"
     />
   </a>
@@ -85,8 +88,29 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   <a href="https://kangchainx.github.io/github-christmas-kit">
     <img
       src="./resources/demo/github-christmas-kit-demo-github-readme.gif"
-      width="360"
+      width="300"
+      height="150"
       alt="GitHub-Christmas-Kit demo"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kangchainx/video-text-chrome-extension?tab=readme-ov-file">
+    <img
+      src="./resources/demo/video-text-extension.gif"
+      width="300"
+      height="150"
+      alt="Video-Text-Chrome-Extension demo"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github-homepage.kangchainx.com/">
+    <img
+      src="./resources/demo/github-studio.gif"
+      width="300"
+      height="150"
+      alt="GitHub-Studio demo"
     />
   </a>
 </p>
@@ -117,7 +141,7 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://nirzak-streak-stats.vercel.app/?user=kangchainx&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/convoychat"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Top Languages" /></a>
+  <!-- <a href="https://github.com/anuraghazra/convoychat"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Top Languages" /></a> -->
 </p>
 
 ---
@@ -129,10 +153,10 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   <img alt="github-snake" src="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
 </picture>
 
----
+<!-- --- -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/kangchainx">
     <img src="./resources/gif/buymeacoffee.gif" alt="Buy Me A Coffee" width="300" />
   </a>
-</p>
+</p> -->
