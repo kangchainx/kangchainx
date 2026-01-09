@@ -105,6 +105,15 @@ Discover more about me at 👉 <a href="https://kangchainx.com">Homepage</a>.
   <a href="mailto:kangchenhe666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kangchainx">
+    <img src="./resources/png/bmc-full-logo-no-background.png" alt="Buy Me A Coffee" width="300" />
+  </a>
+</p>
+
 ## 🧑🏻‍💻 GitHub Stats
 
 <p align="center">
