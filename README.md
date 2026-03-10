@@ -1,4 +1,8 @@
-## 👋 Hi, I'm Chris Kang
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=24&duration=4000&pause=2000&color=58A6FF&vCenter=true&width=435&lines=Hey+buddy%2C+how+you+doin'%3F)](https://git.io/typing-svg)
+
+```shell
+> I'm Chris, a Full-Stack Developer.
+```
 
 👨🏻‍💻 Currently working at an AIGC startup.
 
@@ -17,7 +21,7 @@
   <a href="mailto:kangchenhe666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
-## 🚀 My Project
+## What I've Built
 
 <p align="center">
   <a href="https://github.com/kangchainx/youtube-analysis-project">
@@ -59,10 +63,7 @@
   </a>
 </p>
 
-
----
-
-## 🧑🏻‍💻 GitHub Stats
+## Keep building
 
 <p align="center">
   <!--
@@ -75,16 +76,13 @@
   <!-- <a href="https://github.com/anuraghazra/convoychat"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Top Languages" /></a> -->
 </p>
 
----
+## Funny game
 
-## 🐍 My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
 </picture>
-
-<!-- --- -->
 
 <!-- <p align="center">
   <a href="https://www.buymeacoffee.com/kangchainx">
