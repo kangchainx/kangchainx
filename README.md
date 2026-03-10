@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=24&duration=4000&pause=2000&color=58A6FF&vCenter=true&width=435&lines=Hey+buddy%2C+how+you+doin'%3F)](https://git.io/typing-svg)
 
-```shell
-> I'm Chris, a Full-Stack Developer.
-```
+`I'm Chris, a Full-Stack Developer.`
 
 👨🏻‍💻 Currently working at an AIGC startup.
 
