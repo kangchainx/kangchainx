@@ -76,11 +76,13 @@
 
 ## Funny game
 
-<picture>
+![kangchainx Year of the Horse contribution graph](https://horse-ucg.vercel.app/api/share-card?user=kangchainx&color=ef4444)
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/kangchainx/kangchainx/blob/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <!-- <p align="center">
   <a href="https://www.buymeacoffee.com/kangchainx">
