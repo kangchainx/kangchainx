@@ -76,7 +76,7 @@
 
 ## Funny game
 
-![kangchainx Year of the Horse contribution graph](https://horse-ucg.vercel.app/api/share-card?user=kangchainx&color=ef4444)
+[![kangchainx Year of the Horse contribution graph](https://horse-ucg.vercel.app/api/share-card?user=kangchainx&color=ef4444)](https://github.com/kangchainx/horse-ucg)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake-dark.svg" />
