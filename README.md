@@ -2,7 +2,7 @@
 
 `I'm Chris, a Full-Stack Developer.`
 
-👨🏻‍💻 Currently working at an AIGC startup.
+👨🏻‍💻 Currently working at Spira AI.
 
 🎸 An amateur guitarist.
 
@@ -19,6 +19,7 @@
   <a href="mailto:kangchenhe666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
+<!--
 ## What I've Built
 
 <p align="center">
@@ -60,23 +61,14 @@
     />
   </a>
 </p>
+-->
 
-## Keep building
-
-<p align="center">
-  <!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=kangchainx&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://nirzak-streak-stats.vercel.app/?user=kangchainx&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-  &nbsp;&nbsp;
-  <!-- <a href="https://github.com/anuraghazra/convoychat"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangchainx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Top Languages" /></a> -->
-</p>
-
+<!--
 ## Funny game
 
 [![kangchainx Year of the Horse contribution graph](https://horse-ucg.vercel.app/api/share-card?user=kangchainx&color=ef4444)](https://github.com/kangchainx/horse-ucg)
+
+-->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangchainx/kangchainx/blob/output/github-snake-dark.svg" />
